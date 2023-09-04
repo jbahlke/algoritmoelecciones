@@ -1,0 +1,19 @@
+Metodologías ágiles utilizadas: KANBAN
+Tabla Kanban:
+Crea un tablero Kanban. Cree columnas como "Por hacer", "En progreso", "Revisión" y "Hecho".
+Listado de Tareas:
+•	Dividimos el proyecto en tareas más pequeñas:
+•	Investigar y diseñar la interfaz del sistema.
+•	Generar un pseudocódigo funcional.
+•	Crear la estructura de la base de datos para la identificación de los votantes.
+•	Implementar la funcionalidad de la identificación para evitar el doble voto.
+•	Diseñar la lista de candidatos y el sistema de conteo de votos.
+•	Implementar la funcionalidad del sistema de conteo de votos.
+Flujo de Trabajo:
+Colocamos las tareas en la columna "Por hacer" del tablero Kanban.
+A medida que comenzamos a trabajar en una tarea, la movemos a la columna "En progreso".
+Cuando completamos una tarea, la movemos a la columna "Revisión" para verificarla y resolver cualquier problema.
+Una vez que una tarea haya sido revisada y aprobada, la movemos a la columna "Hecho".
+Seguimiento:
+Actualizaremos el tablero Kanban regularmente, asegurándonos de que refleje el progreso. Podemos crear una columna "Bloqueado" para indicar qué tareas están trabadas y por qué.
+
